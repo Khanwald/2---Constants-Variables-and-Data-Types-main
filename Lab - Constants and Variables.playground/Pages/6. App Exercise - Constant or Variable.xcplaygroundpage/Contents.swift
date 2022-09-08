@@ -11,6 +11,8 @@
 - Goal number of steps: The user's goal for number of steps to take each day
 - Average heart rate: The user's average heart rate over the last 24 hours
  */
+var name = "Caleb"
+var age = 17
 
 
 /*:
